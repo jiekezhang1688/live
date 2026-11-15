@@ -19,7 +19,7 @@ http://37.27.111.214:8080/live/7/hls.m3u8
 https://streamipcfapp.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 #EXTINF:-1 tvg-id="HakkaTV.tw@SD" tvg-logo="https://i.imgur.com/1CdGSbU.png" group-title="台灣綜合",客家電視台
 https://h5cul1yar48um3t.wcetv.com/hls/hakkatv.m3u8
-#EXTINF:-1 tvg-name="环球奇观" tvg-logo="https://live.fanmingming.com/tv/环球奇观.png" group-title="台灣綜合",环球奇观
+#EXTINF:-1 tvg-name="環球奇觀" tvg-logo="https://live.fanmingming.com/tv/環球奇觀.png" group-title="台灣綜合",環球奇觀
 http://111.61.236.247:9081/hls/63/index.m3u8
 #EXTINF:-1 tvg-id="环球电视" tvg-name="环球电视" tvg-logo="https://live.fanmingming.cn/tv/环球电视台.png" group-title="台灣綜合",環球電視
 http://utv1.hqtvzb.com:9999/hls/world.m3u8
@@ -41,7 +41,7 @@ http://61.221.215.25:8800/hls/41/index.m3u8
 http://61.221.215.25:8800/hls/39/index.m3u8
 #EXTINF:-1 group-title="台灣宗教" tvg-id="CGNTVChinese.tw@SD",CGNTV中文台
 https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8
-#EXTINF:-1 group-title="台灣宗教" tvg-id="DaliTV.tw@SD",Dali TV (大立電視台)
+#EXTINF:-1 group-title="台灣宗教" tvg-id="DaliTV.tw@SD",大立電視台
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 #EXTINF:-1 tvg-name="人间卫视" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/BLTV.png" group-title="台灣宗教",人間衛視
 http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
